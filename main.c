@@ -11,7 +11,6 @@ int main(void) {
 
 	int total=0, ciclos=0, seg = 00, min=0;
 
-
 	printf(" Quantos minutos deseja contar: ");
 	scanf("%d", &total);
 	total = total * 60;
